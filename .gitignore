@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 /src/config.js
+index.html
+No-Results-Layout.png
+Results-Layout.png
 
 # testing
 /coverage
